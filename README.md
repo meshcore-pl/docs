@@ -1,1 +1,1 @@
-# docs
+# Spolszczona dokumentacja MeshCore 📘
