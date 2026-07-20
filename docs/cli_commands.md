@@ -1,6 +1,6 @@
 # Polecenia CLI
 
-Ten dokument zawiera przegląd poleceń CLI, które można wysyłać do repeaterów, room serverów i sensorów MeshCore.
+Ten dokument zawiera liste poleceń CLI, które można wysyłać do repeaterów, room serverów i sensorów MeshCore.
 
 ## Nawigacja
 

@@ -20,6 +20,7 @@
     "update": "npm run pull && npm ci --omit=dev && pm2 restart mcd"
   },
   "dependencies": {
+    "ejs": "^6.0.1",
     "express": "^5.2.1",
     "express-rate-limit": "^8.6.0",
     "express-timeout-handler": "^2.2.2",
