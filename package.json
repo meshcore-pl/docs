@@ -20,6 +20,8 @@
     "update": "npm run pull && npm ci --omit=dev && pm2 restart mcd"
   },
   "dependencies": {
+    "@liamcottle/meshcore.js": "^1.13.0",
+    "@michaelhart/meshcore-decoder": "^0.3.0",
     "ejs": "^6.0.1",
     "express": "^5.2.1",
     "express-rate-limit": "^8.6.0",
